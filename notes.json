@@ -1,0 +1,14 @@
+[
+  { "title": "Day5", "body": "A happy day!" },
+  { "title": "Day6", "body": "A happy day!" },
+  { "title": "Error occurring", "body": "There is an error on this program" },
+  { "title": "Is it fixed yet?", "body": "I tried to fix it. Did it work?" },
+  {
+    "title": "Bought a screwdriver",
+    "body": "What i did is i went at mandala park and i found nothing. the parking cost me P30. but I found telson shop that sells hardware so i got one."
+  },
+  {
+    "title": "Finished the note app",
+    "body": "Hey! I'm happy this app now works! and its features are now complete"
+  }
+]
